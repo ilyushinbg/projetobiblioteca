@@ -14402,8 +14402,23 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\RegistrarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\RegistrarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
       "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\CadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuario\\CadastroRealizado.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14419,6 +14434,11 @@
     {
       "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\ExcluirUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14447,6 +14467,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\RequiresAdmin.cshtml",
+      "TargetPath": "Views\\Usuario\\RequiresAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
       "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
       "FileKind": "mvc"
@@ -14469,6 +14494,11 @@
     {
       "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {

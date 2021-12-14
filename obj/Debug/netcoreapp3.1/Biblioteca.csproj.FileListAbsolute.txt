@@ -51,3 +51,9 @@ C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Bibli
 C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroRealizado.cshtml.g.cs
+C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
+C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuario.cshtml.g.cs
+C:\Users\Ilyushin B Godinho\Desktop\programação-estudos\curso-senac\uc7-\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RequiresAdmin.cshtml.g.cs

@@ -1,0 +1,36 @@
+@model List<Usuario>
+
+<h1 class="text-center">Usuários cadastrados no sistema</h1>
+
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Nome</th>
+      <th scope="col">Login</th>
+      <th scope="col">Tipo</th>
+      <th scope="col">Ações</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (Usuario u in Model)
+    {
+      <tr scope="row">
+        <td>@u.Nome</td>
+        <td>@u.Login</td>
+
+        @if(u.Tipo == Usuario.admin) {
+          <td>Administrador</td>
+        } else {
+          <td>Padrão</td>
+        }
+
+        <td>
+          <a href="EditarUsuario?Id=@u.Id" class="btn btn-primary">Editar</a>
+          <a href="ExcluirUsuario?id=@u.Id" class="btn btn-danger">Excluir</a>
+        </td>
+      </tr>    
+    }
+  </tbody>
+</table>
+
+<a href="/Usuario/RegistrarUsuario" class="btn btn-secondary">Registrar Novo Usuário</a>
