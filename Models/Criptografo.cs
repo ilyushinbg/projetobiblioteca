@@ -1,18 +1,17 @@
 using System.Security.Cryptography;
 using System.Text;
-using System;
 
 namespace Biblioteca.Models
 {
-
     public class Criptografo
     {
-        public static string TextoCriptografado(string textoSemFormatacao)
+
+        public static string TextoCriptografado (string textoSemFormatacao)
         {
             MD5 MD5Hasher = MD5.Create();
 
-            byte[] By = Encoding.Default.GetBytes(textoSemFormatacao);
-            byte[] bytesCriptografado = MD5Hasher.ComputeHash(By);
+            byte [] bytesNaoCriptografado = Encoding.Default.GetBytes(textoSemFormatacao);
+            byte [] bytesCriptografado = MD5Hasher.ComputeHash(bytesNaoCriptografado);
 
             StringBuilder SB = new StringBuilder();
 

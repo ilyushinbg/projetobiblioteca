@@ -1,8 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
-using System;
-
 
 namespace Biblioteca.Models
 {
@@ -36,45 +34,43 @@ namespace Biblioteca.Models
         {
             using(BibliotecaContext bc = new BibliotecaContext())
             {
-                IQueryable<Emprestimo> query;
+                IQueryable<Emprestimo> consulta;
 
-                if(filtro != null)
-                {
-                    switch(filtro.TipoFiltro)
-                    {
+                if(filtro != null){
+
+                    switch(filtro.TipoFiltro) {
                         case "Usuario":
-                            query = bc.Emprestimos.Where(e => e.NomeUsuario.Contains(filtro.Filtro));
+                        consulta = bc.Emprestimos.Where(e => e.NomeUsuario.Contains(filtro.Filtro));
                         break;
-
                         case "Livro":
                             List<Livro> LivrosFiltro = bc.Livros.Where(l => l.Titulo.Contains(filtro.Filtro)).ToList();
-                            
+
                             List<int> LivrosId = new List<int>();
-                            for (int n = 0; n < LivrosFiltro.Count; n++) {
+                            for (int n=0; n <LivrosFiltro.Count; n++) {
                                 LivrosId.Add(LivrosFiltro[n].Id);
                             }
-                            query = bc.Emprestimos.Where(e => LivrosId.Contains(e.LivroId));
-                            var debug = query.ToList();
+                            consulta = bc.Emprestimos.Where(e => LivrosId.Contains(e.LivroId));
+                            var debug = consulta.ToList();
                         break;
-
                         default:
-                            query = bc.Emprestimos;
+                            consulta = bc.Emprestimos;
                         break;
                     }
+                } else {
+                    consulta = bc.Emprestimos;
                 }
-                else
-                {
-                    query = bc.Emprestimos;
-                }
-                List<Emprestimo> ListaConsulta = query.OrderByDescending(e => e.DataEmprestimo).ToList();
 
-                for (int n = 0; n < ListaConsulta.Count; n++) {
+                List<Emprestimo> ListaConsulta = consulta.OrderByDescending(e => e.DataDevolucao).ToList();
+
+                for (int n=0; n < ListaConsulta.Count; n++) {
                     ListaConsulta[n].Livro = bc.Livros.Find(ListaConsulta[n].LivroId);
                 }
 
                 return ListaConsulta;
-            }
+                    }
         }
+    
+        
 
         public Emprestimo ObterPorId(int id)
         {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qsT+tRid4vyCtJ/XXCDygIFf7xTXuRs1WOewnu6i/cQa1NJoFQdAoKkew+HzGk0tJV2W+EpQaCBAOvIY9U5BTw==",
+  "dgSpecHash": "KacOI4DKnmcJdyUMicMvMk8Zg7JbKnGjgwzfsk8FUA5J2Pz939LGsKGdnYyXherwqIAordswv/ve4OE6uDF0bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ilyushin B Godinho\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Ilyushin B Godinho\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
@@ -28,7 +28,8 @@
     "C:\\Users\\Ilyushin B Godinho\\.nuget\\packages\\system.collections.immutable\\1.6.0\\system.collections.immutable.1.6.0.nupkg.sha512",
     "C:\\Users\\Ilyushin B Godinho\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
     "C:\\Users\\Ilyushin B Godinho\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
-    "C:\\Users\\Ilyushin B Godinho\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "C:\\Users\\Ilyushin B Godinho\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\Ilyushin B Godinho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }

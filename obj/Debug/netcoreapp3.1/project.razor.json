@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+  "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Biblioteca.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,108 +14402,108 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\RegistrarUsuario.cshtml",
-      "TargetPath": "Views\\Usuario\\RegistrarUsuario.cshtml",
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Usuarios\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\RegistrarUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
-      "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\ListaDeUsuarios.cshtml",
-      "TargetPath": "Views\\Usuario\\ListaDeUsuarios.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\CadastroRealizado.cshtml",
-      "TargetPath": "Views\\Usuario\\CadastroRealizado.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
-      "TargetPath": "Views\\Livro\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\ExcluirUsuario.cshtml",
-      "TargetPath": "Views\\Usuario\\ExcluirUsuario.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
-      "TargetPath": "Views\\Livro\\Listagem.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
-      "TargetPath": "Views\\Livro\\Edicao.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Home\\Login.cshtml",
-      "TargetPath": "Views\\Home\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\RequiresAdmin.cshtml",
-      "TargetPath": "Views\\Usuario\\RequiresAdmin.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
-      "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
-      "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Usuarios\\editarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\editarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
+      "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Usuarios\\RequiresAdmin.cshtml",
+      "TargetPath": "Views\\Usuarios\\RequiresAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
+      "TargetPath": "Views\\Livro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Usuarios\\CadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuarios\\CadastroRealizado.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\EditarUsuario.cshtml",
-      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\programação-estudos\\curso-senac\\uc7-\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
+      "TargetPath": "Views\\Livro\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Usuarios\\excluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\excluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
+      "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
+      "TargetPath": "Views\\Livro\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Home\\Login.cshtml",
+      "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
+      "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ilyushin B Godinho\\Desktop\\projeto-biblioteca-senac\\Biblioteca\\Views\\Usuarios\\listaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\listaDeUsuarios.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -29,12 +29,10 @@
             </div>
             <div class="form-group">
                 <label asp-for="Emprestimo.LivroId">Livro</label>
-                <select asp-for="Emprestimo.LivroId" class="form-control" required>
-                    @{
-                        foreach(Livro lv in Model.Livros)
+                <select asp-for="Emprestimo.LivroId" class="form-control">
+                    @foreach(Livro l in Model.Livros)
                     {
-                        <option value="@lv.Titulo">@lv.Titulo</option>
-                    }
+                        <option value="@l.Id">@l.Titulo</option>
                     }
                 </select>
             </div>

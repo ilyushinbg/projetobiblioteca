@@ -28,7 +28,6 @@ namespace Biblioteca.Models
                 bc.Add(u);
                 bc.SaveChanges();
             }
-
         }
 
         public void editarUsuario(Usuario EditU)
@@ -44,7 +43,6 @@ namespace Biblioteca.Models
 
                 bc.SaveChanges();
             }
-
         }
 
         public void excluirUsuario(int id)
@@ -54,7 +52,6 @@ namespace Biblioteca.Models
                 bc.Usuarios.Remove(bc.Usuarios.Find(id));
                 bc.SaveChanges();
             }
-            
         }
     }
 }
